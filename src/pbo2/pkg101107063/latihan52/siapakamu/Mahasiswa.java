@@ -5,9 +5,11 @@
  */
 package pbo2.pkg101107063.latihan52.siapakamu;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Nim  : 10117063
+Kelas: IF-2
+Deskripsi Program : Menampilkan Identitas
  */
 public class Mahasiswa extends Manusia{
     private String nim;
